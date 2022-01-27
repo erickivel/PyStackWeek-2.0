@@ -1,0 +1,2 @@
+Venv
+Django
